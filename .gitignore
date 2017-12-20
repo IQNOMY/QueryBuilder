@@ -12,3 +12,6 @@ buildNumber.properties
 !/.mvn/wrapper/maven-wrapper.jar
 .idea/
 QueryBuilder.iml
+/.settings/
+/.classpath
+/.project
